@@ -8,7 +8,7 @@ Instructions for Setup
 
 Dependencies
 
-pip install msal requests
+    pip install msal requests
 
 Register an Azure AD App
 
